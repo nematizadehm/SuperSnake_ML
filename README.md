@@ -1,4 +1,4 @@
-۲# Super Snake Mohammad V2🐍
+# Super Snake Mohammad V2🐍
 Snake game with artificial intelligence in Python using arcade and tensorflow libraries
  Written
  
