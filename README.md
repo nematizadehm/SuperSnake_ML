@@ -1,4 +1,4 @@
-# Super Snake Mohammad V2🐍
+۲# Super Snake Mohammad V2🐍
 Snake game with artificial intelligence in Python using arcade and tensorflow libraries
  Written
  
@@ -24,7 +24,7 @@ python train.py
 `````
 ## Run
 
-run is python file is main
+run is python file 
 `````
 python main.py
 `````
